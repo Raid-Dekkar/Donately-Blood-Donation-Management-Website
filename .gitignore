@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor settings
+.vscode/
+
+# Ignore dependencies
+node_modules/
+vendor/
+
+# Ignore environment and credentials
+.env
+config.php
+
+# Ignore cache and logs
+*.log
+cache/
+uploads/
+
+# Ignore database credentials
+inc/
